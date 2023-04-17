@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Apr 17 00:20:20 2023
+# Process ID: 9560
+# Current directory: C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.runs/impl_1
+# Command line: vivado.exe -log top_FNN.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_FNN.tcl -notrace
+# Log file: C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.runs/impl_1/top_FNN.vdi
+# Journal file: C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top_FNN.tcl -notrace

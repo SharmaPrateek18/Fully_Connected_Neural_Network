@@ -1,0 +1,251 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (win64) Build 2708876 Wed Nov  6 21:40:23 MST 2019
+| Date         : Mon Apr 17 00:24:38 2023
+| Host         : LAPTOP-JNLNLQVE running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file top_FNN_control_sets_placed.rpt
+| Design       : top_FNN
+| Device       : xc7a100t
+------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |   173 |
+|    Minimum number of control sets                        |   173 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |   318 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |   173 |
+| >= 0 to < 4        |     1 |
+| >= 4 to < 6        |    10 |
+| >= 6 to < 8        |    40 |
+| >= 8 to < 10       |     0 |
+| >= 10 to < 12      |    31 |
+| >= 12 to < 14      |     0 |
+| >= 14 to < 16      |     2 |
+| >= 16              |    89 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |             288 |          160 |
+| No           | No                    | Yes                    |               0 |            0 |
+| No           | Yes                   | No                     |             107 |           35 |
+| Yes          | No                    | No                     |            1050 |          167 |
+| Yes          | No                    | Yes                    |               0 |            0 |
+| Yes          | Yes                   | No                     |            3213 |         1180 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------+-------------------------------+-------------------------------+------------------+----------------+
+|  Clock Signal  |         Enable Signal         |        Set/Reset Signal       | Slice Load Count | Bel Load Count |
++----------------+-------------------------------+-------------------------------+------------------+----------------+
+|  clk_IBUF_BUFG |                               | l4/n_0/outvalid_reg_0         |                1 |              1 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_8/comboAdd_i_2__28_n_30  |                3 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_3/comboAdd_i_2__23_n_30  |                2 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_1/comboAdd_i_2__21_n_30  |                3 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_6/comboAdd_i_2__26_n_30  |                2 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_0/comboAdd_i_3__20_n_30  |                3 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_7/comboAdd_i_2__27_n_30  |                3 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_2/comboAdd_i_2__22_n_30  |                2 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_5/comboAdd_i_2__25_n_30  |                2 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_4/comboAdd_i_2__24_n_30  |                2 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_3              | l4/n_9/comboAdd_i_2__29_n_30  |                3 |              5 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_9/sum[30]_i_1__1_n_30    |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_6/sum[30]_i_1__12_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_0/comboAdd_i_3_n_30      |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_12/sum[30]_i_1__2_n_30   |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_3/sum[30]_i_1__9_n_30    |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_10/comboAdd_i_2__6_n_30  |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_2/comboAdd_i_2__31_n_30  |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_1/comboAdd_i_2__0_n_30   |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_1/comboAdd_i_2__30_n_30  |                4 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_11/comboAdd_i_2__7_n_30  |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_19/comboAdd_i_2__12_n_30 |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_5/sum[30]_i_1__11_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_0/sum[30]_i_1__8_n_30    |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_25/comboAdd_i_2__17_n_30 |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_9/comboAdd_i_2__33_n_30  |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_8/comboAdd_i_2__32_n_30  |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_7/sum[30]_i_1__13_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_2              | l3/n_4/sum[30]_i_1__10_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_22/sum[30]_i_1__5_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_23/comboAdd_i_2__15_n_30 |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_24/comboAdd_i_2__16_n_30 |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_2/sum[30]_i_1_n_30       |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_20/comboAdd_i_2__13_n_30 |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_21/comboAdd_i_2__14_n_30 |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_16/comboAdd_i_2__9_n_30  |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_17/comboAdd_i_2__10_n_30 |                4 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_18/comboAdd_i_2__11_n_30 |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_13/comboAdd_i_2__8_n_30  |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_14/sum[30]_i_1__3_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_15/sum[30]_i_1__4_n_30   |                4 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_26/comboAdd_i_2__18_n_30 |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_27/comboAdd_i_2__19_n_30 |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_28/sum[30]_i_1__6_n_30   |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_29/sum[30]_i_1__7_n_30   |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_3/sum[30]_i_1__0_n_30    |                4 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_4/comboAdd_i_2__1_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_5/comboAdd_i_2__2_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_6/comboAdd_i_2__3_n_30   |                2 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_7/comboAdd_i_2__4_n_30   |                3 |              6 |
+|  clk_IBUF_BUFG | data_out_valid_1              | l2/n_8/comboAdd_i_2__5_n_30   |                2 |              6 |
+|  clk_IBUF_BUFG |                               | l4/n_0/muxValid_f_reg_0       |               10 |             10 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_14/sum[30]_i_1__21_n_30  |                3 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_15/comboAdd_i_2__41_n_30 |                3 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_16/sum[30]_i_1__22_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_10/comboAdd_i_2__38_n_30 |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_0/comboAdd_i_2__34_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_19/comboAdd_i_2__43_n_30 |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_1/comboAdd_i_2__35_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_25/sum[30]_i_1__27_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_26/comboAdd_i_2__46_n_30 |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_22/sum[30]_i_1__26_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_20/sum[30]_i_1__24_n_30  |                4 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_21/sum[30]_i_1__25_n_30  |                4 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_3/sum[30]_i_1__15_n_30   |                6 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_27/sum[30]_i_1__28_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_28/sum[30]_i_1__29_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_8/sum[30]_i_1__19_n_30   |                4 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_29/comboAdd_i_2__47_n_30 |                4 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_7/sum[30]_i_1__18_n_30   |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_2/sum[30]_i_1__14_n_30   |                4 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_17/sum[30]_i_1__23_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_18/comboAdd_i_2__42_n_30 |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_9/comboAdd_i_2__37_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_11/comboAdd_i_2__39_n_30 |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_12/comboAdd_i_2__40_n_30 |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_13/sum[30]_i_1__20_n_30  |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_23/comboAdd_i_2__44_n_30 |                5 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_24/comboAdd_i_2__45_n_30 |                4 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_4/sum[30]_i_1__16_n_30   |                4 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_5/comboAdd_i_2__36_n_30  |                4 |             11 |
+|  clk_IBUF_BUFG | in_data_valid_IBUF            | l1/n_6/sum[30]_i_1__17_n_30   |                4 |             11 |
+|  clk_IBUF_BUFG | l4/n_0/outvalid_reg_0         |                               |                8 |             15 |
+|  clk_IBUF_BUFG | mFind/maxValue[14]_i_1_n_30   |                               |                5 |             15 |
+|  clk_IBUF_BUFG | l1/n_3/sum[30]_i_2__9_n_30    | l1/n_3/sum[30]_i_1__15_n_30   |                9 |             31 |
+|  clk_IBUF_BUFG | l1/n_13/sum[30]_i_2__14_n_30  | l1/n_13/sum[30]_i_1__20_n_30  |               10 |             31 |
+|  clk_IBUF_BUFG | l1/n_8/sum[30]_i_2__13_n_30   | l1/n_8/sum[30]_i_1__19_n_30   |                9 |             31 |
+|  clk_IBUF_BUFG | l1/n_7/sum[30]_i_2__12_n_30   | l1/n_7/sum[30]_i_1__18_n_30   |               11 |             31 |
+|  clk_IBUF_BUFG | l1/n_17/sum[30]_i_2__17_n_30  | l1/n_17/sum[30]_i_1__23_n_30  |               10 |             31 |
+|  clk_IBUF_BUFG | l1/n_2/sum[30]_i_2__8_n_30    | l1/n_2/sum[30]_i_1__14_n_30   |                8 |             31 |
+|  clk_IBUF_BUFG | l1/n_28/sum[30]_i_2__23_n_30  | l1/n_28/sum[30]_i_1__29_n_30  |               10 |             31 |
+|  clk_IBUF_BUFG | l1/n_27/sum[30]_i_2__22_n_30  | l1/n_27/sum[30]_i_1__28_n_30  |                9 |             31 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_2       | l3/n_5/sum[30]_i_1__11_n_30   |               10 |             31 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_0       | l3/n_3/sum[30]_i_1__9_n_30    |                9 |             31 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_3       | l3/n_6/sum[30]_i_1__12_n_30   |               10 |             31 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_4       | l3/n_7/sum[30]_i_1__13_n_30   |               10 |             31 |
+|  clk_IBUF_BUFG | l3/n_0/sum[30]_i_2__24_n_30   | l3/n_0/sum[30]_i_1__8_n_30    |               12 |             31 |
+|  clk_IBUF_BUFG | l1/n_16/sum[30]_i_2__16_n_30  | l1/n_16/sum[30]_i_1__22_n_30  |               10 |             31 |
+|  clk_IBUF_BUFG | l1/n_14/sum[30]_i_2__15_n_30  | l1/n_14/sum[30]_i_1__21_n_30  |                9 |             31 |
+|  clk_IBUF_BUFG | l1/n_6/sum[30]_i_2__11_n_30   | l1/n_6/sum[30]_i_1__17_n_30   |               10 |             31 |
+|  clk_IBUF_BUFG | l1/n_4/sum[30]_i_2__10_n_30   | l1/n_4/sum[30]_i_1__16_n_30   |               11 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_21      | l2/n_22/sum[30]_i_1__5_n_30   |                9 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_28      | l2/n_29/sum[30]_i_1__7_n_30   |               10 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_27      | l2/n_28/sum[30]_i_1__6_n_30   |               10 |             31 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_1       | l3/n_4/sum[30]_i_1__10_n_30   |                9 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_8       | l2/n_9/sum[30]_i_1__1_n_30    |               10 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_2       | l2/n_3/sum[30]_i_1__0_n_30    |               13 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_14      | l2/n_15/sum[30]_i_1__4_n_30   |                9 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_1       | l2/n_2/sum[30]_i_1_n_30       |                9 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_13      | l2/n_14/sum[30]_i_1__3_n_30   |               12 |             31 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_11      | l2/n_12/sum[30]_i_1__2_n_30   |               10 |             31 |
+|  clk_IBUF_BUFG | l1/n_21/sum[30]_i_2__19_n_30  | l1/n_21/sum[30]_i_1__25_n_30  |                8 |             31 |
+|  clk_IBUF_BUFG | l1/n_20/sum[30]_i_2__18_n_30  | l1/n_20/sum[30]_i_1__24_n_30  |               10 |             31 |
+|  clk_IBUF_BUFG | l1/n_22/sum[30]_i_2__20_n_30  | l1/n_22/sum[30]_i_1__26_n_30  |               10 |             31 |
+|  clk_IBUF_BUFG | l1/n_25/sum[30]_i_2__21_n_30  | l1/n_25/sum[30]_i_1__27_n_30  |               10 |             31 |
+|  clk_IBUF_BUFG | l4/n_9/comboAdd_i_1__27_n_30  | l4/n_9/comboAdd_i_2__29_n_30  |               10 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_5[0]    | l2/n_6/comboAdd_i_2__3_n_30   |               13 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_10[0]   | l2/n_11/comboAdd_i_2__7_n_30  |               11 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_17[0]   | l2/n_18/comboAdd_i_2__11_n_30 |               11 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_18[0]   | l2/n_19/comboAdd_i_2__12_n_30 |               15 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_0[0]    | l2/n_1/comboAdd_i_2__0_n_30   |               11 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_16[0]   | l2/n_17/comboAdd_i_2__10_n_30 |               11 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_15[0]   | l2/n_16/comboAdd_i_2__9_n_30  |               12 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_19[0]   | l2/n_20/comboAdd_i_2__13_n_30 |               12 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_20[0]   | l2/n_21/comboAdd_i_2__14_n_30 |               13 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_23[0]   | l2/n_24/comboAdd_i_2__16_n_30 |               10 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_24[0]   | l2/n_25/comboAdd_i_2__17_n_30 |               12 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_7[0]    | l2/n_8/comboAdd_i_2__5_n_30   |               12 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_9[0]    | l2/n_10/comboAdd_i_2__6_n_30  |               13 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_6[0]    | l2/n_7/comboAdd_i_2__4_n_30   |               11 |             32 |
+|  clk_IBUF_BUFG | l1/n_29/comboAdd_i_1__49_n_30 | l1/n_29/comboAdd_i_2__47_n_30 |               11 |             32 |
+|  clk_IBUF_BUFG | l1/n_9/comboAdd_i_1__39_n_30  | l1/n_9/comboAdd_i_2__37_n_30  |               13 |             32 |
+|  clk_IBUF_BUFG | l1/n_5/comboAdd_i_1__38_n_30  | l1/n_5/comboAdd_i_2__36_n_30  |               11 |             32 |
+|  clk_IBUF_BUFG | l1/n_15/comboAdd_i_1__43_n_30 | l1/n_15/comboAdd_i_2__41_n_30 |               11 |             32 |
+|  clk_IBUF_BUFG | l1/n_10/comboAdd_i_1__40_n_30 | l1/n_10/comboAdd_i_2__38_n_30 |               12 |             32 |
+|  clk_IBUF_BUFG | l1/n_0/comboAdd_i_1__36_n_30  | l1/n_0/comboAdd_i_2__34_n_30  |               13 |             32 |
+|  clk_IBUF_BUFG | mFind/counter                 | l4/n_0/outvalid_reg_0         |                7 |             32 |
+|  clk_IBUF_BUFG | mFind/maxValue                | l4/n_0/outvalid_reg_0         |               15 |             32 |
+|  clk_IBUF_BUFG | l1/n_1/comboAdd_i_1__37_n_30  | l1/n_1/comboAdd_i_2__35_n_30  |               12 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_12[0]   | l2/n_13/comboAdd_i_2__8_n_30  |               10 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/comboAdd_i_2_n_30      | l2/n_0/comboAdd_i_3_n_30      |               11 |             32 |
+|  clk_IBUF_BUFG |                               | count_1                       |                8 |             32 |
+|  clk_IBUF_BUFG |                               | count_2                       |                8 |             32 |
+|  clk_IBUF_BUFG |                               | count_3                       |                8 |             32 |
+|  clk_IBUF_BUFG | l1/n_18/comboAdd_i_1__44_n_30 | l1/n_18/comboAdd_i_2__42_n_30 |               12 |             32 |
+|  clk_IBUF_BUFG | l1/n_19/comboAdd_i_1__45_n_30 | l1/n_19/comboAdd_i_2__43_n_30 |               12 |             32 |
+|  clk_IBUF_BUFG | l1/n_11/comboAdd_i_1__41_n_30 | l1/n_11/comboAdd_i_2__39_n_30 |               13 |             32 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_7[0]    | l3/n_8/comboAdd_i_2__32_n_30  |               11 |             32 |
+|  clk_IBUF_BUFG | l1/n_12/comboAdd_i_1__42_n_30 | l1/n_12/comboAdd_i_2__40_n_30 |               13 |             32 |
+|  clk_IBUF_BUFG | l1/n_23/comboAdd_i_1__46_n_30 | l1/n_23/comboAdd_i_2__44_n_30 |               11 |             32 |
+|  clk_IBUF_BUFG | l1/n_24/comboAdd_i_1__47_n_30 | l1/n_24/comboAdd_i_2__45_n_30 |               14 |             32 |
+|  clk_IBUF_BUFG | l1/n_26/comboAdd_i_1__48_n_30 | l1/n_26/comboAdd_i_2__46_n_30 |               12 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_26[0]   | l2/n_27/comboAdd_i_2__19_n_30 |               13 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_22[0]   | l2/n_23/comboAdd_i_2__15_n_30 |               11 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_25[0]   | l2/n_26/comboAdd_i_2__18_n_30 |               12 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_3[0]    | l2/n_4/comboAdd_i_2__1_n_30   |               12 |             32 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_5[0]    | l3/n_1/comboAdd_i_2__30_n_30  |               11 |             32 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_6[0]    | l3/n_2/comboAdd_i_2__31_n_30  |               13 |             32 |
+|  clk_IBUF_BUFG | l3/n_0/mult_valid_reg_8[0]    | l3/n_9/comboAdd_i_2__33_n_30  |               12 |             32 |
+|  clk_IBUF_BUFG | l4/n_0/comboAdd_i_2__20_n_30  | l4/n_0/comboAdd_i_3__20_n_30  |               13 |             32 |
+|  clk_IBUF_BUFG | l2/n_0/mult_valid_reg_4[0]    | l2/n_5/comboAdd_i_2__2_n_30   |               12 |             32 |
+|  clk_IBUF_BUFG | l4/n_1/comboAdd_i_1__19_n_30  | l4/n_1/comboAdd_i_2__21_n_30  |               12 |             32 |
+|  clk_IBUF_BUFG | l4/n_2/comboAdd_i_1__20_n_30  | l4/n_2/comboAdd_i_2__22_n_30  |               11 |             32 |
+|  clk_IBUF_BUFG | l4/n_3/comboAdd_i_1__21_n_30  | l4/n_3/comboAdd_i_2__23_n_30  |               13 |             32 |
+|  clk_IBUF_BUFG | l4/n_4/comboAdd_i_1__22_n_30  | l4/n_4/comboAdd_i_2__24_n_30  |               11 |             32 |
+|  clk_IBUF_BUFG | l4/n_5/comboAdd_i_1__23_n_30  | l4/n_5/comboAdd_i_2__25_n_30  |                9 |             32 |
+|  clk_IBUF_BUFG | l4/n_7/comboAdd_i_1__25_n_30  | l4/n_7/comboAdd_i_2__27_n_30  |               13 |             32 |
+|  clk_IBUF_BUFG | l4/n_6/comboAdd_i_1__24_n_30  | l4/n_6/comboAdd_i_2__26_n_30  |                9 |             32 |
+|  clk_IBUF_BUFG | l4/n_8/comboAdd_i_1__26_n_30  | l4/n_8/comboAdd_i_2__28_n_30  |               12 |             32 |
+|  clk_IBUF_BUFG | l3/n_0/siginst.s1/E[0]        |                               |               20 |            135 |
+|  clk_IBUF_BUFG |                               |                               |              160 |            288 |
+|  clk_IBUF_BUFG | l2/n_0/siginst.s1/E[0]        |                               |               65 |            435 |
+|  clk_IBUF_BUFG | l1/n_0/siginst.s1/holdData_1  |                               |               69 |            450 |
++----------------+-------------------------------+-------------------------------+------------------+----------------+
+
+
