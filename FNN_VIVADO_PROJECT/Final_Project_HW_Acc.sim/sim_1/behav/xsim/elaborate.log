@@ -1,0 +1,261 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto b5993938249c4639a53df63dfe3eb59d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_FNN_behav xil_defaultlib.tb_FNN xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_0.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_1.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_2.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_3.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_4.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_5.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_6.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_7.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_8.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_9.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_10.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_11.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_12.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_13.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_14.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_15.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_16.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_17.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_18.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_19.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_20.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_21.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_22.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_23.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_24.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_25.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_26.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_27.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_28.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 11 differs from formal bit length 10 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_29.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_0.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_1.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_2.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_3.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_4.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_5.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_6.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_7.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_8.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_9.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_10.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_11.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_12.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_13.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_14.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_15.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_16.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_17.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_18.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_19.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_20.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_21.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_22.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_23.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_24.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_25.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_26.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_27.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_28.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_29.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_0.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_1.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_2.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_3.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_4.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_5.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_6.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_7.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_8.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 6 differs from formal bit length 5 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_9.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_0.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_1.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_2.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_3.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_4.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_5.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_6.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_7.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_8.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 4 for port 'radd' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_9.sv:169]
+WARNING: [VRFC 10-3091] actual bit length 10 differs from formal bit length 1 for port 'i_valid' [C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/top_FNN.sv:251]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.W_Mem_1_0(addressWidth=10)
+Compiling module xil_defaultlib.Sig_ROM
+Compiling module xil_defaultlib.Neuron_1_0(neuronNo=0)
+Compiling module xil_defaultlib.W_Mem_1_1(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_1(neuronNo=1)
+Compiling module xil_defaultlib.W_Mem_1_2(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_2(neuronNo=2)
+Compiling module xil_defaultlib.W_Mem_1_3(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_3(neuronNo=3)
+Compiling module xil_defaultlib.W_Mem_1_4(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_4(neuronNo=4)
+Compiling module xil_defaultlib.W_Mem_1_5(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_5(neuronNo=5)
+Compiling module xil_defaultlib.W_Mem_1_6(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_6(neuronNo=6)
+Compiling module xil_defaultlib.W_Mem_1_7(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_7(neuronNo=7)
+Compiling module xil_defaultlib.W_Mem_1_8(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_8(neuronNo=8)
+Compiling module xil_defaultlib.W_Mem_1_9(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_9(neuronNo=9)
+Compiling module xil_defaultlib.W_Mem_1_10(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_10(neuronNo=10)
+Compiling module xil_defaultlib.W_Mem_1_11(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_11(neuronNo=11)
+Compiling module xil_defaultlib.W_Mem_1_12(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_12(neuronNo=12)
+Compiling module xil_defaultlib.W_Mem_1_13(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_13(neuronNo=13)
+Compiling module xil_defaultlib.W_Mem_1_14(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_14(neuronNo=14)
+Compiling module xil_defaultlib.W_Mem_1_15(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_15(neuronNo=15)
+Compiling module xil_defaultlib.W_Mem_1_16(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_16(neuronNo=16)
+Compiling module xil_defaultlib.W_Mem_1_17(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_17(neuronNo=17)
+Compiling module xil_defaultlib.W_Mem_1_18(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_18(neuronNo=18)
+Compiling module xil_defaultlib.W_Mem_1_19(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_19(neuronNo=19)
+Compiling module xil_defaultlib.W_Mem_1_20(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_20(neuronNo=20)
+Compiling module xil_defaultlib.W_Mem_1_21(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_21(neuronNo=21)
+Compiling module xil_defaultlib.W_Mem_1_22(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_22(neuronNo=22)
+Compiling module xil_defaultlib.W_Mem_1_23(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_23(neuronNo=23)
+Compiling module xil_defaultlib.W_Mem_1_24(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_24(neuronNo=24)
+Compiling module xil_defaultlib.W_Mem_1_25(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_25(neuronNo=25)
+Compiling module xil_defaultlib.W_Mem_1_26(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_26(neuronNo=26)
+Compiling module xil_defaultlib.W_Mem_1_27(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_27(neuronNo=27)
+Compiling module xil_defaultlib.W_Mem_1_28(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_28(neuronNo=28)
+Compiling module xil_defaultlib.W_Mem_1_29(addressWidth=10)
+Compiling module xil_defaultlib.Neuron_1_29(neuronNo=29)
+Compiling module xil_defaultlib.Layer1
+Compiling module xil_defaultlib.W_Mem_2_0(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_0(neuronNo=0)
+Compiling module xil_defaultlib.W_Mem_2_1(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_1(neuronNo=1)
+Compiling module xil_defaultlib.W_Mem_2_2(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_2(neuronNo=2)
+Compiling module xil_defaultlib.W_Mem_2_3(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_3(neuronNo=3)
+Compiling module xil_defaultlib.W_Mem_2_4(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_4(neuronNo=4)
+Compiling module xil_defaultlib.W_Mem_2_5(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_5(neuronNo=5)
+Compiling module xil_defaultlib.W_Mem_2_6(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_6(neuronNo=6)
+Compiling module xil_defaultlib.W_Mem_2_7(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_7(neuronNo=7)
+Compiling module xil_defaultlib.W_Mem_2_8(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_8(neuronNo=8)
+Compiling module xil_defaultlib.W_Mem_2_9(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_9(neuronNo=9)
+Compiling module xil_defaultlib.W_Mem_2_10(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_10(neuronNo=10)
+Compiling module xil_defaultlib.W_Mem_2_11(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_11(neuronNo=11)
+Compiling module xil_defaultlib.W_Mem_2_12(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_12(neuronNo=12)
+Compiling module xil_defaultlib.W_Mem_2_13(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_13(neuronNo=13)
+Compiling module xil_defaultlib.W_Mem_2_14(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_14(neuronNo=14)
+Compiling module xil_defaultlib.W_Mem_2_15(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_15(neuronNo=15)
+Compiling module xil_defaultlib.W_Mem_2_16(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_16(neuronNo=16)
+Compiling module xil_defaultlib.W_Mem_2_17(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_17(neuronNo=17)
+Compiling module xil_defaultlib.W_Mem_2_18(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_18(neuronNo=18)
+Compiling module xil_defaultlib.W_Mem_2_19(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_19(neuronNo=19)
+Compiling module xil_defaultlib.W_Mem_2_20(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_20(neuronNo=20)
+Compiling module xil_defaultlib.W_Mem_2_21(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_21(neuronNo=21)
+Compiling module xil_defaultlib.W_Mem_2_22(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_22(neuronNo=22)
+Compiling module xil_defaultlib.W_Mem_2_23(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_23(neuronNo=23)
+Compiling module xil_defaultlib.W_Mem_2_24(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_24(neuronNo=24)
+Compiling module xil_defaultlib.W_Mem_2_25(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_25(neuronNo=25)
+Compiling module xil_defaultlib.W_Mem_2_26(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_26(neuronNo=26)
+Compiling module xil_defaultlib.W_Mem_2_27(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_27(neuronNo=27)
+Compiling module xil_defaultlib.W_Mem_2_28(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_28(neuronNo=28)
+Compiling module xil_defaultlib.W_Mem_2_29(addressWidth=5)
+Compiling module xil_defaultlib.Neuron_2_29(neuronNo=29)
+Compiling module xil_defaultlib.Layer2
+Compiling module xil_defaultlib.W_Mem_3_0(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_0(neuronNo=0,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_1(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_1(neuronNo=1,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_2(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_2(neuronNo=2,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_3(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_3(neuronNo=3,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_4(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_4(neuronNo=4,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_5(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_5(neuronNo=5,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_6(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_6(neuronNo=6,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_7(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_7(neuronNo=7,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_8(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_8(neuronNo=8,numWeight=...
+Compiling module xil_defaultlib.W_Mem_3_9(numWeight=30,addressWi...
+Compiling module xil_defaultlib.Neuron_3_9(neuronNo=9,numWeight=...
+Compiling module xil_defaultlib.Layer3
+Compiling module xil_defaultlib.W_Mem_4_0(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_0(neuronNo=0)
+Compiling module xil_defaultlib.W_Mem_4_1(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_1(neuronNo=1)
+Compiling module xil_defaultlib.W_Mem_4_2(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_2(neuronNo=2)
+Compiling module xil_defaultlib.W_Mem_4_3(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_3(neuronNo=3)
+Compiling module xil_defaultlib.W_Mem_4_4(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_4(neuronNo=4)
+Compiling module xil_defaultlib.W_Mem_4_5(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_5(neuronNo=5)
+Compiling module xil_defaultlib.W_Mem_4_6(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_6(neuronNo=6)
+Compiling module xil_defaultlib.W_Mem_4_7(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_7(neuronNo=7)
+Compiling module xil_defaultlib.W_Mem_4_8(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_8(neuronNo=8)
+Compiling module xil_defaultlib.W_Mem_4_9(addressWidth=4)
+Compiling module xil_defaultlib.Neuron_4_9(neuronNo=9)
+Compiling module xil_defaultlib.Layer4
+Compiling module xil_defaultlib.maxFinder
+Compiling module xil_defaultlib.top_FNN
+Compiling module xil_defaultlib.tb_FNN
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_FNN_behav

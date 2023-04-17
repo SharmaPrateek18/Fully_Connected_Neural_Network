@@ -1,0 +1,24 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+1. Accuracy: 100.000000, Detected number: 7, Expected: 0007
+2. Accuracy: 100.000000, Detected number: 2, Expected: 0002
+3. Accuracy: 100.000000, Detected number: 1, Expected: 0001
+4. Accuracy: 100.000000, Detected number: 0, Expected: 0000
+5. Accuracy: 100.000000, Detected number: 4, Expected: 0004
+6. Accuracy: 100.000000, Detected number: 1, Expected: 0001
+7. Accuracy: 100.000000, Detected number: 4, Expected: 0004
+8. Accuracy: 100.000000, Detected number: 9, Expected: 0009
+9. Accuracy: 88.888889, Detected number: 6, Expected: 0005
+10. Accuracy: 90.000000, Detected number: 9, Expected: 0009
+11. Accuracy: 90.909091, Detected number: 0, Expected: 0000
+12. Accuracy: 91.666667, Detected number: 6, Expected: 0006
+13. Accuracy: 92.307692, Detected number: 9, Expected: 0009
+14. Accuracy: 92.857143, Detected number: 0, Expected: 0000
+15. Accuracy: 93.333333, Detected number: 1, Expected: 0001
+16. Accuracy: 93.750000, Detected number: 5, Expected: 0005
+17. Accuracy: 94.117647, Detected number: 9, Expected: 0009
+18. Accuracy: 94.444444, Detected number: 7, Expected: 0007
+19. Accuracy: 89.473684, Detected number: 8, Expected: 0003
+20. Accuracy: 90.000000, Detected number: 4, Expected: 0004
+Accuracy: 90.000000
+$stop called at time : 178795 ns : File "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sim_1/new/tb_FNN.sv" Line 121

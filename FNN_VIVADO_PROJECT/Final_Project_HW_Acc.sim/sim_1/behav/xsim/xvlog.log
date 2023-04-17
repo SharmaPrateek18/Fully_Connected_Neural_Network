@@ -1,0 +1,340 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Layer1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Layer2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Layer3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Layer4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Layer4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_10.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_10
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_11.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_11
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_12.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_12
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_13.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_13
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_14.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_14
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_15.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_15
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_16.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_16
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_17.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_17
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_18.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_18
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_19.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_19
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_20.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_20
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_21.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_21
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_22.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_22
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_23.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_23
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_24.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_24
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_25.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_25
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_26.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_26
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_27.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_27
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_28.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_28
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_29.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_29
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_1_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_1_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_10.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_10
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_11.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_11
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_12.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_12
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_13.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_13
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_14.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_14
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_15.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_15
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_16.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_16
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_17.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_17
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_18.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_18
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_19.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_19
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_20.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_20
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_21.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_21
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_22.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_22
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_23.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_23
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_24.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_24
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_25.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_25
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_26.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_26
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_27.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_27
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_28.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_28
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_29.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_29
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_2_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_2_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_3_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_3_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Neuron_4_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Neuron_4_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/ReLU.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ReLU
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/Sig_ROM.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sig_ROM
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_10.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_10
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_11.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_11
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_12.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_12
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_13.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_13
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_14.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_14
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_15.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_15
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_16.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_16
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_17.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_17
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_18.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_18
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_19.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_19
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_20.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_20
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_21.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_21
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_22.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_22
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_23.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_23
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_24.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_24
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_25.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_25
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_26.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_26
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_27.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_27
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_28.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_28
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_29.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_29
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_1_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_1_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_10.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_10
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_11.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_11
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_12.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_12
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_13.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_13
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_14.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_14
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_15.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_15
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_16.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_16
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_17.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_17
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_18.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_18
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_19.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_19
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_20.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_20
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_21.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_21
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_22.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_22
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_23.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_23
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_24.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_24
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_25.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_25
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_26.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_26
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_27.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_27
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_28.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_28
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_29.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_29
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_2_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_2_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_3_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_3_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/W_Mem_4_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module W_Mem_4_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/maxFinder.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maxFinder
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sources_1/new/top_FNN.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_FNN
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.srcs/sim_1/new/tb_FNN.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_FNN
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/RAJESH KUMAR/Desktop/Digital_IC_Assign/Final_Project_HW_Acc/Final_Project_HW_Acc.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
