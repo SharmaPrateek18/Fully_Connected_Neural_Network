@@ -71,6 +71,6 @@ If x is negative, the module sets the output to 0.
 
 The output of the module is the ReLU function applied to the input signal x, represented by the out output signal of width dataWidth.
 
-#CONCLUSION
+# CONCLUSION
 A Fully Connected Neural Network is implemented and verified using simulation on Nexys 4 board. The modules used are explained above. The following Neural Network works for MNIST dataset. 
 
