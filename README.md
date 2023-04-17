@@ -15,7 +15,7 @@ The FNN is implemented using a pipelining approach, where each layer uses a stat
 
 The holdData_1, holdData_2, and holdData_3 signals are used to store the output data from each layer while it is being pipelined to the next layer. The out_data_1, out_data_2, and out_data_3 signals are used to store the final output data from each layer.
 
-## Layers in the Neural network (Layer1,Layer2, Layer3 and Layer4)
+## Layers in the Neural network (Layer1, Layer2, Layer3 and Layer4)
 
 This Layer module implements the neural network layer. The layer has 30,30,10 and 10 neurons in each corresponding layers. Each neuron is implemented by a separate module instantiation.
 
